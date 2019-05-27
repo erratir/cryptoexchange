@@ -1,0 +1,17 @@
+export default [
+    'btc-usd',
+    'eth-usd',
+    'etc-usd',
+    'ltc-usd',
+    'xmr-usd',
+    'neo-usd',
+    'xrp-usd',
+    'XHV-usd',
+    'tube-usd',
+    'eos-usd',
+    'bnb-usd',
+    'xlm-usd',
+    'trx-usd',
+    'dash-usd',
+    'zec-usd',
+];
